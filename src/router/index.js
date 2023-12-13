@@ -4,11 +4,11 @@ import FormPage from "../pages/FormPage.vue";
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
-        {
-            name: 'home',
-            path: '/',
-            component: FormPage
-        }
+        // {
+        //     name: 'home',
+        //     path: '/',
+        //     component: FormPage
+        // }
     ]
 })
 
